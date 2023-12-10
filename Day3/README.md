@@ -1,0 +1,1 @@
+![Day 3](<Homework 3.png>)
